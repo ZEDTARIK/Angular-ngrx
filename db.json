@@ -3,17 +3,19 @@
     [
         {
             "id": 1,
-            "description": "Lenovo Computer",
-            "price": 1500,
-            "isCompleted": true,
+            "Description": "Lenovo Computer",
+            "Price": 1500,
+            "Quantity": 32,
+            "IsSelected": true,
             "isAvailable": true,
             "IsDeleted": false
         },
         {
             "id": 2,
-            "description": "Printer Dell",
-            "price": 753,
-            "isCompleted": false,
+            "Description": "Printer Dell",
+            "Price": 753,
+            "Quantity": 6,
+            "IsSelected": false,
             "isAvailable": true,
             "IsDeleted": false
         }
