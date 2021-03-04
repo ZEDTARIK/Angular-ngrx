@@ -1,1 +1,16 @@
-<p>navbar works!</p>
+<div class="row mt-3">
+    <div class="col-md-12">
+        <!-- Grey with black text -->
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" routerActive="active" routerLink="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" routerActive="active" routerLink="/product">Products</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<router-outlet></router-outlet>
