@@ -1,0 +1,21 @@
+{
+    "products": 
+    [
+        {
+            "id": 1,
+            "description": "Lenovo Computer",
+            "price": 1500,
+            "isCompleted": true,
+            "isAvailable": true,
+            "IsDeleted": false
+        },
+        {
+            "id": 2,
+            "description": "Printer Dell",
+            "price": 753,
+            "isCompleted": false,
+            "isAvailable": true,
+            "IsDeleted": false
+        }
+    ]
+}
